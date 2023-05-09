@@ -1,4 +1,7 @@
 import os
+print('os imported')
+print('glob imported')
+print('os imported')
 def run_py():
     for i in range(10):
         print('Hiii')
